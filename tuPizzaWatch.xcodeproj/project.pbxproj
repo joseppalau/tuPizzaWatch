@@ -21,6 +21,22 @@
 		83F957AC1F86798900D54571 /* ExtensionDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83F957AB1F86798900D54571 /* ExtensionDelegate.swift */; };
 		83F957AE1F86798900D54571 /* NotificationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83F957AD1F86798900D54571 /* NotificationController.swift */; };
 		83F957B01F86798900D54571 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 83F957AF1F86798900D54571 /* Assets.xcassets */; };
+		D4B718831F8FC14700E3F8FE /* ValorPizza4.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4B718821F8FC14700E3F8FE /* ValorPizza4.swift */; };
+		D4B718841F8FC14700E3F8FE /* ValorPizza4.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4B718821F8FC14700E3F8FE /* ValorPizza4.swift */; };
+		D4B718861F8FC40300E3F8FE /* ConfirmadorController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4B718851F8FC40300E3F8FE /* ConfirmadorController.swift */; };
+		D4B718871F8FC40300E3F8FE /* ConfirmadorController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4B718851F8FC40300E3F8FE /* ConfirmadorController.swift */; };
+		D4FE40BF1F8CAF000005F46A /* MasaController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4FE40BE1F8CAF000005F46A /* MasaController.swift */; };
+		D4FE40C01F8CAF000005F46A /* MasaController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4FE40BE1F8CAF000005F46A /* MasaController.swift */; };
+		D4FE40C11F8CB1F30005F46A /* ValorPizza.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4FE40BD1F8CAD4E0005F46A /* ValorPizza.swift */; };
+		D4FE40C21F8CB1F50005F46A /* ValorPizza.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4FE40BD1F8CAD4E0005F46A /* ValorPizza.swift */; };
+		D4FE40C41F8CBE190005F46A /* ValorPizza2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4FE40C31F8CBE190005F46A /* ValorPizza2.swift */; };
+		D4FE40C51F8CBE190005F46A /* ValorPizza2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4FE40C31F8CBE190005F46A /* ValorPizza2.swift */; };
+		D4FE40C71F8CC0C40005F46A /* QuesoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4FE40C61F8CC0C40005F46A /* QuesoController.swift */; };
+		D4FE40C81F8CC0C40005F46A /* QuesoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4FE40C61F8CC0C40005F46A /* QuesoController.swift */; };
+		D4FE40CA1F8CC4F30005F46A /* IngredientesController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4FE40C91F8CC4F30005F46A /* IngredientesController.swift */; };
+		D4FE40CB1F8CC4F30005F46A /* IngredientesController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4FE40C91F8CC4F30005F46A /* IngredientesController.swift */; };
+		D4FE40D01F8CCAF30005F46A /* ValorPizza3.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4FE40CF1F8CCAF30005F46A /* ValorPizza3.swift */; };
+		D4FE40D11F8CCAF30005F46A /* ValorPizza3.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4FE40CF1F8CCAF30005F46A /* ValorPizza3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -94,6 +110,14 @@
 		83F957AD1F86798900D54571 /* NotificationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationController.swift; sourceTree = "<group>"; };
 		83F957AF1F86798900D54571 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		83F957B11F86798900D54571 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D4B718821F8FC14700E3F8FE /* ValorPizza4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ValorPizza4.swift; sourceTree = "<group>"; };
+		D4B718851F8FC40300E3F8FE /* ConfirmadorController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConfirmadorController.swift; sourceTree = "<group>"; };
+		D4FE40BD1F8CAD4E0005F46A /* ValorPizza.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValorPizza.swift; sourceTree = "<group>"; };
+		D4FE40BE1F8CAF000005F46A /* MasaController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MasaController.swift; path = "../tuPizzaWatch WatchKit App/MasaController.swift"; sourceTree = "<group>"; };
+		D4FE40C31F8CBE190005F46A /* ValorPizza2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ValorPizza2.swift; sourceTree = "<group>"; };
+		D4FE40C61F8CC0C40005F46A /* QuesoController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = QuesoController.swift; path = "../tuPizzaWatch WatchKit App/QuesoController.swift"; sourceTree = "<group>"; };
+		D4FE40C91F8CC4F30005F46A /* IngredientesController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = IngredientesController.swift; path = "../tuPizzaWatch WatchKit App/IngredientesController.swift"; sourceTree = "<group>"; };
+		D4FE40CF1F8CCAF30005F46A /* ValorPizza3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ValorPizza3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -168,7 +192,11 @@
 		83F957971F86798900D54571 /* tuPizzaWatch WatchKit App */ = {
 			isa = PBXGroup;
 			children = (
+				D4FE40BD1F8CAD4E0005F46A /* ValorPizza.swift */,
+				D4FE40CF1F8CCAF30005F46A /* ValorPizza3.swift */,
+				D4B718821F8FC14700E3F8FE /* ValorPizza4.swift */,
 				83F957981F86798900D54571 /* Interface.storyboard */,
+				D4FE40C31F8CBE190005F46A /* ValorPizza2.swift */,
 				83F9579B1F86798900D54571 /* Assets.xcassets */,
 				83F9579D1F86798900D54571 /* Info.plist */,
 			);
@@ -178,7 +206,11 @@
 		83F957A61F86798900D54571 /* tuPizzaWatch WatchKit Extension */ = {
 			isa = PBXGroup;
 			children = (
+				D4B718851F8FC40300E3F8FE /* ConfirmadorController.swift */,
 				83F957A91F86798900D54571 /* InterfaceController.swift */,
+				D4FE40BE1F8CAF000005F46A /* MasaController.swift */,
+				D4FE40C91F8CC4F30005F46A /* IngredientesController.swift */,
+				D4FE40C61F8CC0C40005F46A /* QuesoController.swift */,
 				83F957AB1F86798900D54571 /* ExtensionDelegate.swift */,
 				83F957AD1F86798900D54571 /* NotificationController.swift */,
 				83F957AF1F86798900D54571 /* Assets.xcassets */,
@@ -294,6 +326,7 @@
 					83F957921F86798900D54571 = {
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = JLMW7WJ8B5;
+						LastSwiftMigration = 0830;
 						ProvisioningStyle = Automatic;
 					};
 					83F957A11F86798900D54571 = {
@@ -367,7 +400,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				83F9577C1F86798900D54571 /* ViewController.swift in Sources */,
+				D4FE40D01F8CCAF30005F46A /* ValorPizza3.swift in Sources */,
+				D4FE40CA1F8CC4F30005F46A /* IngredientesController.swift in Sources */,
+				D4FE40C11F8CB1F30005F46A /* ValorPizza.swift in Sources */,
 				83F9577A1F86798900D54571 /* AppDelegate.swift in Sources */,
+				D4FE40C71F8CC0C40005F46A /* QuesoController.swift in Sources */,
+				D4B718861F8FC40300E3F8FE /* ConfirmadorController.swift in Sources */,
+				D4FE40C41F8CBE190005F46A /* ValorPizza2.swift in Sources */,
+				D4FE40BF1F8CAF000005F46A /* MasaController.swift in Sources */,
+				D4B718831F8FC14700E3F8FE /* ValorPizza4.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -384,8 +425,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				83F957AE1F86798900D54571 /* NotificationController.swift in Sources */,
+				D4FE40C01F8CAF000005F46A /* MasaController.swift in Sources */,
+				D4FE40C51F8CBE190005F46A /* ValorPizza2.swift in Sources */,
 				83F957AC1F86798900D54571 /* ExtensionDelegate.swift in Sources */,
+				D4FE40CB1F8CC4F30005F46A /* IngredientesController.swift in Sources */,
+				D4FE40C81F8CC0C40005F46A /* QuesoController.swift in Sources */,
+				D4FE40C21F8CB1F50005F46A /* ValorPizza.swift in Sources */,
 				83F957AA1F86798900D54571 /* InterfaceController.swift in Sources */,
+				D4B718871F8FC40300E3F8FE /* ConfirmadorController.swift in Sources */,
+				D4B718841F8FC14700E3F8FE /* ValorPizza4.swift in Sources */,
+				D4FE40D11F8CCAF30005F46A /* ValorPizza3.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -571,13 +620,16 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				DEVELOPMENT_TEAM = JLMW7WJ8B5;
 				IBSC_MODULE = tuPizzaWatch_WatchKit_Extension;
 				INFOPLIST_FILE = "tuPizzaWatch WatchKit App/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.palauturf.tuPizzaWatch.watchkitapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = 4;
 				WATCHOS_DEPLOYMENT_TARGET = 3.2;
@@ -589,9 +641,11 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				DEVELOPMENT_TEAM = JLMW7WJ8B5;
 				IBSC_MODULE = tuPizzaWatch_WatchKit_Extension;
 				INFOPLIST_FILE = "tuPizzaWatch WatchKit App/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.palauturf.tuPizzaWatch.watchkitapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = watchos;
@@ -677,6 +731,7 @@
 				83F957B61F86798900D54571 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		83F957B81F86798900D54571 /* Build configuration list for PBXNativeTarget "tuPizzaWatch WatchKit App" */ = {
 			isa = XCConfigurationList;
@@ -685,6 +740,7 @@
 				83F957BA1F86798900D54571 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		83F957BC1F86798900D54571 /* Build configuration list for PBXNativeTarget "tuPizzaWatch" */ = {
 			isa = XCConfigurationList;
@@ -693,6 +749,7 @@
 				83F957BE1F86798900D54571 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		83F957BF1F86798900D54571 /* Build configuration list for PBXNativeTarget "tuPizzaWatchTests" */ = {
 			isa = XCConfigurationList;
@@ -701,6 +758,7 @@
 				83F957C11F86798900D54571 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
